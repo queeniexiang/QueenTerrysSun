@@ -54,7 +54,7 @@ The following is the generated data:
 This is the graph containing data points up to array size 20,000:
 ![General Graph](graphImages/generalGraph.png)
 ####Key to graph
-**blue:***
+**blue:**
 y = ax * log(bx)
 **red:**
 y = ax
