@@ -2,8 +2,8 @@
 ###QueenTerrysSun
 APCS2 pd03 <br />
 3/9/2017
-************
 **QuickSort Lab**
+************
 
 ##runtime classification:
 
